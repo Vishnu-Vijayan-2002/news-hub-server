@@ -1,0 +1,61 @@
+{
+  "allBloges": [
+    {
+      "id": "2adb",
+      "title": "MS Dhoni in 'new role'",
+      "description": "NEW DELHI: Chennai Super Kings skipper MS Dhoni dropped a In a surprising move on Monday, Chennai Super Kings skipper In a surprising move on Monday, Chennai Super Kings skipper MS Dhoni made a rare social media post regarding his 'new role.' This mysterious announcement has ignited speculation among his fans, leaving them intrigued about the capacity in which he will be featured in the upcoming IPL. The post did not specify whether the reference to the 'new season' pertained to the IPL 2024 edition.",
+      "type": "Sports",
+      "image": "https://www.livemint.com/lm-img/img/2024/03/03/600x338/ANI-20230417322-0_1682055671303_1709455636909.jpg"
+    },
+    {
+      "id": "6a93",
+      "title": "Insulted Lord Ram': Former Gujarat Congress chief Arjun Modhwadia quits party",
+      "description": "NEW DELHI: Sparking speculation of a growing rift in the\nRead more at The MLA's letter to party chief Mallikarjun Kharge read Prabhu Ram is not just Pujaniya to Hindus, but he is the Aastha of Bharat. Declining the invitation to witness pran pratishtha mahotsav has hurt the sentiments of the people of India",
+      "type": "politics",
+      "image": "https://www.etvbharat.com/_next/image?url=https%3A%2F%2Fetvbharatimages.akamaized.net%2Fetvbharat%2Fprod-images%2F29-02-2024%2F1200-675-20870460-thumbnail-16x9-b-aspera.jpg&w=3840&q=30"
+    },
+    {
+      "id": "034e",
+      "title": "Back\nGetting spam calls, WhatsApp messages? This is what Centre plans to fight them",
+      "description": "As part of its attempt to curb the menace of fraud over spam calls or SMS or WhatsApp, the government on Monday launched ‘Chakshu’ as part of the Sanchar Saathi portal, which was unveiled in May last year.",
+      "type": "politics",
+      "image": "https://www.livemint.com/lm-img/img/2024/03/04/600x338/AshwiniVaishnav_1709565908805_1709565917160.png"
+    },
+    {
+      "id": "54e3",
+      "title": "Wankhede Stadium to host Ranji Trophy final; 41-time champions Mumbai enters summit clash",
+      "description": "The Ranji Trophy final of this season will be played at the Wankhede Stadium here from March 10 to 14, the Mumbai Cricket Association (MCA) informed on Monday.",
+      "type": "Sports",
+      "image": "https://www.hindustantimes.com/ht-img/img/2024/03/04/550x309/Built-in-1974--Wankhede-Stadium-hosted-the-first-c_1709565277087_1709565327015.jpg"
+    },
+    {
+      "id": "08b9",
+      "title": "Sanchar Saathi: All you need to know about online portal to track, block lost mobile phones",
+      "description": "Department of Telecom has launched the Sanchar Saathi portal that allows users to block and track their lost or stolen mobile phones across India. Union telecom minister Ashwini Vaishnaw said that through Sanchar Saathi Portal, people will also be able to check the genuineness of a used device before buying.",
+      "type": "Tech",
+      "image": "https://www.livemint.com/lm-img/img/2023/05/17/600x338/mobile_phone_1684109177024_1684320225613.JPG"
+    },
+    {
+      "id": "3dd9",
+      "title": "Mild earthquake strikes Doda region in Jammu and Kashmir",
+      "description": "A mild earthquake of magnitude 3.6 hit the Doda region in Jammu and Kashmir on Monday night, according to the National Center for Seismology. The earthquake monitoring agnecy said the tremor was felt at around 9.17pm.",
+      "type": "Disaster",
+      "image": "https://www.hindustantimes.com/ht-img/img/2024/03/04/550x309/jammu_doda_earthquake_1709569547064_1709569547448.jpg"
+    },
+    {
+      "id": "7211",
+      "title": "Row over Kerala University fest after CPM-led students union names it ‘intifada’: Report",
+      "description": "Intifada’ is an Arabic word that means ‘shaking off’. It is also used by Palestinians to describe their uprising against Israel.A massive controversy erupted in Kerala after the Communist Party of India-Marxist led students union in University of Kerala proposed to name the institution's annual youth festival as ‘intifada’, an Arabic term used to refer to Palestinian resistance against Israel.",
+      "type": "Education",
+      "image": "https://www.hindustantimes.com/ht-img/img/2024/03/04/550x309/University_of_Kerala_1709567511382_1709567511751.jpg"
+    },
+    {
+      "id": "dd40",
+      "title": "Manipur bans renaming of places, makes it punishable by up to 3 years in jail",
+      "description": "Guwahati: The Manipur assembly on Monday passed a legislation that makes it punishable to rename places by a prison term that could extend to three years and fines of up to ₹2 lakhs.",
+      "type": "Politics",
+      "image": "https://www.hindustantimes.com/ht-img/img/2024/03/04/550x309/Manipur-chief-minster-N-Biren-Singh---File-photo-_1709566352770.jpg"
+    }
+  ],
+  "Categories": []
+}
